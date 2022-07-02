@@ -93,8 +93,8 @@ layout: homepage
 ## Skills
 
 - Natural Languages: Mandarin, English, Cantonese
-- Programming Lanaguges<sup>#</sup>: R, Praat Script, Python, LaTex, HTML, Markdown
+- Programming Lanaguges<sup>#</sup>: R, Praat Script, Python, LaTex, HTML
 - Research Tools: RStudio, Praat, PsychoPy, ELAN, Qualtrics
 - Related Skills: Frequentist Statistics, Web Scraping, Machine Learning for Text Data Processing, Forced Alignment
   <br>
-  <sup>#</sup>: In a descending order of proficiency.
+  <sup>#</sup>In a descending order of proficiency.
