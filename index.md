@@ -6,7 +6,7 @@ layout: homepage
 
 See my [CV](https://albertbaichendu.github.io/assets/BAICHEN_DU_CV_2022-06-30.pdf) for more details.
 
-Hi! My name is Baichen Du 杜柏辰 [tʷuː4 pai3 ʈʂʰən2]. I also go by Albert. I am a final year undergraduate student at the University of Hong Kong, majoring in Linguistics. I am interested in sociolinguistics broadly, and speech perception/production, sound change, variation, and their interaction with social effects. 
+Hi! My name is Baichen Du 杜柏辰 [tʷuː4 pai3 ʈʂʰən2]. People also call me Albert for simplicity. I am a final year undergraduate student at the University of Hong Kong, majoring in Linguistics. I am interested in sociolinguistics broadly, and speech perception/production, sound change, variation, and their interaction with social effects. 
 
 My UG thesis investigates how attention and awareness of social meaning associated with tone mergers affect asynchronous tonal change in Hong Kong Cantonese. Some other projects I contributed also study phonological learning and bilingualism.
 
@@ -56,7 +56,7 @@ Apart from academic interests, I also enjoy photographing, cycling, and hiking. 
 
 ## Research Experiences
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug. 2021 - Present]** Language Development Lab; PI: Dr. Youngah Do & Dr. Jonathan Havenhill.
+- **[Jun. 2022 - Present]** The Baby Language Lab; PI: Prof. Melanie Soderstrom; University of Manitoba.
+- **[Jan. 2022 - Apr. 2022]** Department of Politics and Public Administration, The University of Hong Kong.
+- **[Jan. 2021 - May. 2021]** Language Development Lab; PI: Dr. Jonathan Havanhill; The University of Hong Kong.
