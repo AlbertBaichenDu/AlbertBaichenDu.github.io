@@ -4,12 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi! I am a final year undergraduate student at the University of Hong Kong, majoring in Linguistics. I am interested in sociolinguistics broadly, and speech perception/production, sound change, variation, and their interaction with social effects. 
+
+My UG thesis investigates how attention and awareness of social meaning associated with tone mergers affect asynchronous tonal change in Hong Kong Cantonese. During my undergraduate study, I mainly worked with [Dr. Youngah Do](https://repository.hku.hk/cris/rp/rp02160) and [Dr. Jonathan Havenhill](https://jhavenhill.com) at the [Language Development Lab](https://linguistics.hku.hk/ldlhku/) of the linguistics department at HKU. I also worked with [Dr. Haohan Chen](https://haohanchen.github.io/) on statistical programming and machine learning of text data processing, and [Prof. Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/) on social effects influencing Infant-Directed Speech and early language acquisition.
+
+See my [CV](https://albertbaichendu.github.io/files/BAICHEN_DU_CV_2022-06-30.pdf) for more.
+
+Apart from academic interests, I am also a fan of FC Barcelona. I usually play central midfield.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Sociolinguistics, Phonetics & Phonology:** Speech Perception/Production, Sound Change, Variation
 
 ## News
 
