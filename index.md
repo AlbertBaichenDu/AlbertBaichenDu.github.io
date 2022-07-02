@@ -23,26 +23,24 @@ See my [CV](https://albertbaichendu.github.io/assets/BAICHEN_DU_CV_2022-06-30.pd
 - **Attention and Awareness of Merger’s Social Meaning Influences Asynchronous Tonal Change in Hong Kong Cantonese.**
   <br>
   <!---**Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>--->
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  IEEE Conference on Computer Vision and Pattern Recognition.---> **Undergraduate Thesis**.
+  <!---<br>
+  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>--->
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Bilingual Speakers Show Cognitive Advantages in Simultaneous Generalization of Multiple Phonological Patterns.**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  Youngah Do, **Baichen Du**, Xiaoyu Yu, Lihui Tan, Thomas van Hoey.
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  **In Prep**.
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **Ecological Learning of Phonotactics and Alternation Differs between Adults and Children.**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  Youngah Do, **Baichen Du***, Sui Lung Sze, Tsz To Ho, Tak Wang Li.
+  <!--- <br>
+  IEEE Conference on Computer Vision and Pattern Recognition. --->**In Prep**.
+  <!---<br>
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]--->
 
 ## Honors, Awards, Grants
 
