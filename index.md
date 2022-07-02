@@ -97,4 +97,4 @@ layout: homepage
 - Research Tools: RStudio, Praat, PsychoPy, ELAN, Qualtrics
 - Related Skills: Frequentist Statistics, Web Scraping, Machine Learning for Text Data Processing, Forced Alignment
   <br>
-  <sup>#</sup>In a descending order of proficiency.
+<sup>#</sup>In a descending order of proficiency.
