@@ -6,9 +6,9 @@ address1: R.C.Lee Hall,
 address2: 6A Sassoon Road,
 address3: Pokfulam, Hong Kong, HKG
 keywords: minimal academic
-#google_scholar: https://scholar.google.com/
-#github_link: https://github.com/AlbertBaichenDu
-#linkedin: https://www.linkedin.com/
+google_scholar: https://scholar.google.com/
+github_link: https://github.com/AlbertBaichenDu
+linkedin: https://www.linkedin.com/
 avatar: ./assets/img/profile.jpg
 google_analytics: UA-111540567-4
 #favicon: ./assets/img/favicon.png
