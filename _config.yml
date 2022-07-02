@@ -11,10 +11,10 @@ email: baichen@connect.hku.hk
 #google_scholar: https://scholar.google.com/
 github_link: https://github.com/AlbertBaichenDu
 #linkedin: https://www.linkedin.com/
-avatar: ./assets/img/avatar.png
-google_analytics: UA-111540567-4
-favicon: ./assets/img/profile.jpg
-favicon_dark: ./assets/img/profile.jpg
+avatar: ./assets/img/profile.jpg
+#google_analytics: UA-111540567-4
+#favicon: ./assets/img/profile.jpg
+#favicon_dark: ./assets/img/profile.jpg
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light.yyliu.net/
 remote_theme: yaoyao-liu/minimal-light
