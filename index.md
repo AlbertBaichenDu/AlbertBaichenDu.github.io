@@ -28,7 +28,7 @@ layout: homepage
   <!---<br>
   [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>--->
 
-- **An Audio-visual Exposition of Palatalization and Sound Change in Diachronic and Synchronic Time.**
+- **An Audio-visual Account for Palatalization and Sound Change in Diachronic and Synchronic Time.**
   <br> 
   With Jonathan Havenhill.
   <br>
