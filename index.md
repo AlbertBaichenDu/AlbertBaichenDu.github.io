@@ -28,6 +28,12 @@ Apart from academic interests, I also enjoy photographing, cycling, and hiking. 
   <!---<br>
   [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>--->
 
+- **An Audio-visual Exposition of Palatalization and Sound Change in Diachronic and Synchronic Time.**
+  <br> 
+  With Jonathan Havenhill.
+  <br>
+  **In Prep**.
+
 - **Bilingual Speakers' Performance in Simultaneous Generalization of Multiple Phonological Patterns.**
   <br>
   With Youngah Do, Sui Lung Sze, Tsz To Ho, Tak Wang Li.
@@ -44,12 +50,24 @@ Apart from academic interests, I also enjoy photographing, cycling, and hiking. 
   <!---<br>
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] --->
   
-- **An Audio-visual Exposition of Palatalization and Sound Change in Diachronic and Synchronic Time.**
-  <br> 
-  With Jonathan Havenhill.
+## Research Experience
+
+- **The University of Hong Kong**
+- **[Aug. 2021 - Present]** Language Development Lab
   <br>
-  **In Prep**.
+  PI: Dr. Youngah Do & Dr. Jonathan Havenhill.
+- **[Jan. 2022 - Apr. 2022]** Department of Politics and Public Administration
+  <br>
+  PI: Dr. Haohan Chen
+- **[Jan. 2021 - May. 2021]** Undergraduate Research Opportunity Program
+  <br>
+  Supervisor: Dr. Jonathan Havanhill
   
+- **University of Manitoba**
+- **[Jun. 2022 - Present]** The Baby Language Lab
+  <br>
+  PI: Prof. Melanie Soderstrom
+
 ## Honors, Awards, Grants
 
 - **[2022]** Leung Kai Kui Research and Teaching Endowment. HKD 10,000
@@ -60,9 +78,4 @@ Apart from academic interests, I also enjoy photographing, cycling, and hiking. 
 - **[2020]** Dean's Honor List.
 - **[2019]** Soong Ching-Ling Scholarship. CNY 200,000
 
-## Research Experiences
-
-- **[Aug. 2021 - Present]** Language Development Lab; PI: Dr. Youngah Do & Dr. Jonathan Havenhill.
-- **[Jun. 2022 - Present]** The Baby Language Lab; PI: Prof. Melanie Soderstrom; University of Manitoba.
-- **[Jan. 2022 - Apr. 2022]** Department of Politics and Public Administration, The University of Hong Kong.
-- **[Jan. 2021 - May. 2021]** Language Development Lab; PI: Dr. Jonathan Havanhill; The University of Hong Kong.
+## Extracurricular Activities & Services
