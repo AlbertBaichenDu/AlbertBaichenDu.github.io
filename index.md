@@ -16,14 +16,14 @@ Apart from academic interests, I also enjoy photographing, cycling, and country 
 
 - **Sociolinguistics, Phonetics & Phonology:** Speech Perception/Production, Sound Change, Variation
 
-## News
+## Research Experiences
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
-## Publications
+## Manuscripts
 
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
@@ -49,7 +49,7 @@ Apart from academic interests, I also enjoy photographing, cycling, and country 
   <br>
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
 
-## Services
+## Honors, Awards, Grants
 
 - Conference Reviewers: NeurIPS 2020, CVPR 2020.
 - Journal Reviewers: T-PAMI, IJCV.
