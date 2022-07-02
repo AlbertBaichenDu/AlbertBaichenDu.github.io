@@ -96,4 +96,5 @@ layout: homepage
 - Programming Lanaguges<sup>#</sup>: R, Praat Script, Python, LaTex, HTML, Markdown
 - Research Tools: RStudio, Praat, PsychoPy, ELAN, Qualtrics
 - Related Skills: Frequentist Statistics, Web Scraping, Machine Learning for Text Data Processing, Forced Alignment
-<sup>#</sup>: In a descending order of proficiency.
+  <br>
+  <sup>#</sup>: In a descending order of proficiency.
