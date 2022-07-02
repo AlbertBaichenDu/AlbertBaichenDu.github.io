@@ -105,3 +105,7 @@ layout: homepage
 - Phone: Upon Request.
 <!--- - Github: [AlbertBaichenDu](https://github.com/AlbertBaichenDu) --->
 - Instagram: [\_15.abcd](https://www.instagram.com/_15.abcd/)
+- Address: R.C.Lee Hall
+           <br>
+           6A Sassoon Road, 
+           Pokfulam, Hong Kong
