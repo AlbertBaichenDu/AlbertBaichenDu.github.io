@@ -98,3 +98,10 @@ layout: homepage
 - Related Skills: Frequentist Statistics, Web Scraping, Machine Learning for Text Data Processing, Forced Alignment
   <br>
 <sup>#</sup>In a descending order of proficiency.
+
+## Contact
+
+- Email: [baichen@connect.hku.hk](mailto:baichen@connect.hku.hk)
+- Phone: Upon Request.
+<!--- - Github: [AlbertBaichenDu](https://github.com/AlbertBaichenDu) --->
+- Instagram: [\_15.abcd](https://www.instagram.com/_15.abcd/)
