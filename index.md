@@ -36,7 +36,7 @@ Apart from academic interests, I also enjoy photographing, cycling, and hiking. 
 
 - **Ecological Learning of Phonotactics and Alternation Differs between Adults and Children.**
   <br>
-  Youngah Do, **Baichen Du***, Sui Lung Sze, Tsz To Ho, Tak Wang Li.
+  Youngah Do, **Baichen Du**, Sui Lung Sze, Tsz To Ho, Tak Wang Li.
   <br>
   **In Prep**.
   <!--- <br>
