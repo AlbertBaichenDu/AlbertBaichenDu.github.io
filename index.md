@@ -20,10 +20,10 @@ See my [CV](https://albertbaichendu.github.io/assets/BAICHEN_DU_CV_2022-06-30.pd
 
 ## Manuscripts
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Attention and Awareness of Merger’s Social Meaning Influences Asynchronous Tonal Change in Hong Kong Cantonese.**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
+  <!---**Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  <br>--->
   IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
   <br>
   [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
