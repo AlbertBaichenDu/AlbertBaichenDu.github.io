@@ -37,8 +37,10 @@ See my [CV](https://albertbaichendu.github.io/assets/BAICHEN_DU_CV_2022-06-30.pd
 - **Ecological Learning of Phonotactics and Alternation Differs between Adults and Children.**
   <br>
   Youngah Do, **Baichen Du***, Sui Lung Sze, Tsz To Ho, Tak Wang Li.
+  <br>
+  **In Prep**.
   <!--- <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. --->**In Prep**.
+  IEEE Conference on Computer Vision and Pattern Recognition.---> 
   <!---<br>
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] --->
 
