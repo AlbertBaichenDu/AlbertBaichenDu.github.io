@@ -4,7 +4,7 @@
 body {
   background-color: #fff;
   padding:0px;
-  font: 18.0px/1.5 Crimson Pro, serif; 
+  font: 19.0px/1.5 Calibri, serif; 
   color:#595959;
   font-weight:400;
   margin:0
@@ -59,7 +59,7 @@ papertitle {
 
 
   .image {
-    border-radius: 0.5em;
+    border-radius: 0.35em;
     border: 0;
     display: inline-block;
     position: relative;
@@ -91,7 +91,7 @@ papertitle {
 
       .image.avatar img {
         border-radius: 100%;
-        width: 50%;
+        width: 100%;
         padding:20px;
       }
 
@@ -361,7 +361,7 @@ footer {
 
    .image.avatar img {
         border-radius: 100%;
-        width: 150px;
+        width: 117px;
         padding:20px;
       }
   #head1o2 {
@@ -408,7 +408,7 @@ footer {
 
   .image.avatar img {
       border-radius: 100%;
-      width: 95px;
+      width: 150px;
       padding:20px;
   }
   #head1o2 {
