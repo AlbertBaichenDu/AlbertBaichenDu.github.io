@@ -1,11 +1,15 @@
-title: Baichen Du, 杜柏辰
+title: Baichen Du (杜柏辰)
 position: Bachelor of Social Sciences IV
-affiliation: The University of Hong Kong
+affiliation: The University of Hong Kong<br />
 email: baichen@connect.hku.hk
-keywords: minimal academic
-google_scholar: https://scholar.google.com/
-github_link: https://github.com/yaoyao-liu/minimal-light
-linkedin: https://www.linkedin.com/
+address: R.C.Lee Hall,<br />
+6A Sassoon Road,<br />
+Pokfulam, Hong Kong
+phone: +852 56964800
+#keywords: minimal academic
+#google_scholar: https://scholar.google.com/
+github_link: https://github.com/AlbertBaichenDu
+#linkedin: https://www.linkedin.com/
 avatar: ./assets/img/avatar.png
 google_analytics: UA-111540567-4
 favicon: ./assets/img/favicon.png
