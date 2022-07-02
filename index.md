@@ -52,7 +52,7 @@ Apart from academic interests, I also enjoy photographing, cycling, and hiking. 
   
 ## Research Experience
 
-  **The University of Hong Kong**
+**The University of Hong Kong**
 - **[Aug. 2021 - Present]** Language Development Lab
   <br>
   PI: Dr. Youngah Do & Dr. Jonathan Havenhill.
@@ -63,7 +63,7 @@ Apart from academic interests, I also enjoy photographing, cycling, and hiking. 
   <br>
   Supervisor: Dr. Jonathan Havanhill
   
-  **University of Manitoba**
+**University of Manitoba**
 - **[Jun. 2022 - Present]** The Baby Language Lab
   <br>
   PI: Prof. Melanie Soderstrom
@@ -89,3 +89,11 @@ Apart from academic interests, I also enjoy photographing, cycling, and hiking. 
 - **[Oct. 2020 - Oct. 2021]** Social Service Fund, The University of Hong Kong.
   <br>
   <em> External Secretary </em>
+  
+## Skills
+
+- Natural Languages: Mandarin, English, Cantonese
+- Programming Lanaguges<sup>#</sup>: R, Praat Script, Python, LaTex, HTML, Markdown
+- Research Tools: RStudio, Praat, PsychoPy, ELAN, Qualtrics
+- Related Skills: Frequentist Statistics, Web Scraping, Machine Learning for Text Data Processing, Forced Alignment
+<sup>#</sup>: In a descending order of proficiency.
