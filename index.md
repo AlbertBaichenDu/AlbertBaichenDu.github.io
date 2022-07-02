@@ -6,7 +6,7 @@ layout: homepage
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; See my [CV](https://albertbaichendu.github.io/assets/BAICHEN_DU_CV_2022-06-30.pdf) for more details.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi! My name is Baichen Du 杜柏辰 [tʷuː4 pai3 ʈʂʰən2]. People also call me Albert for simplicity. I am a final year undergraduate student at the University of Hong Kong, majoring in Linguistics. I am interested in sociolinguistics broadly, and speech perception/production, sound change, variation, and their interaction with social effects. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi! My name is **Baichen Du 杜柏辰** [tʷuː4 pai3 ʈʂʰən2]. People also call me **Albert** for simplicity. I am a final year undergraduate student at the University of Hong Kong, majoring in Linguistics. I am interested in sociolinguistics broadly, and speech perception/production, sound change, variation, and their interaction with social effects. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My UG thesis investigates how attention and awareness of social meaning associated with tone mergers affect asynchronous tonal change in Hong Kong Cantonese. Some other projects I contributed also study phonological learning and bilingualism.
 
