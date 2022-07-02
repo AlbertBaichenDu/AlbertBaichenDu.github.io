@@ -52,7 +52,7 @@ Apart from academic interests, I also enjoy photographing, cycling, and hiking. 
   
 ## Research Experience
 
-- **The University of Hong Kong**
+  **The University of Hong Kong**
 - **[Aug. 2021 - Present]** Language Development Lab
   <br>
   PI: Dr. Youngah Do & Dr. Jonathan Havenhill.
@@ -63,7 +63,7 @@ Apart from academic interests, I also enjoy photographing, cycling, and hiking. 
   <br>
   Supervisor: Dr. Jonathan Havanhill
   
-- **University of Manitoba**
+  **University of Manitoba**
 - **[Jun. 2022 - Present]** The Baby Language Lab
   <br>
   PI: Prof. Melanie Soderstrom
@@ -79,3 +79,13 @@ Apart from academic interests, I also enjoy photographing, cycling, and hiking. 
 - **[2019]** Soong Ching-Ling Scholarship. CNY 200,000
 
 ## Extracurricular Activities & Services
+
+- **[Dec. 2021 - Present]** Chinese Culture Sub-Committee, Student Association of R.C.Lee Hall.
+  <br>
+  <em> Chairperson </em>
+- **[Jun. 2021 - Aug. 2021]** Pad for Hope Foundation.
+  <br>
+  <em> Teaching Assistant </em>
+- **[Oct. 2020 - Oct. 2021]** Social Service Fund, The University of Hong Kong.
+  <br>
+  <em> External Secretary </em>
