@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; See my [CV](https://albertbaichendu.github.io/assets/BAICHEN_DU_CV_2022-06-30.pdf) for more details.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; See my [CV](https://albertbaichendu.github.io/assets/CV.pdf) for more details.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi! My name is **Baichen Du 杜柏辰** [tʷuː4 pai3 ʈʂʰən2]. People also call me **Albert** for simplicity. I am a final year undergraduate student at the University of Hong Kong, majoring in Linguistics. I am interested in **sociolinguistics** broadly, and **speech perception/production, sound change, variation, and their interaction with social effects** in specific. 
 
