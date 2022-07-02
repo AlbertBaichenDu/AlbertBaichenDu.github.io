@@ -10,7 +10,7 @@ My UG thesis investigates how attention and awareness of social meaning associat
 
 Apart from academic interests, I also enjoy photographing, cycling, and hiking. 
 
-See my [CV](https://albertbaichendu.github.io/files/BAICHEN_DU_CV_2022-06-30.pdf) for more.
+See my [CV](https://albertbaichendu.github.io/assets/BAICHEN_DU_CV_2022-06-30.pdf) for more.
 
 ## Research Interests
 
