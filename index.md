@@ -4,15 +4,15 @@ layout: homepage
 
 ## About Me
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; See my [CV](https://albertbaichendu.github.io/assets/BAICHEN_DU_CV_2022-06-30.pdf) for more details.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; See my [CV](https://albertbaichendu.github.io/assets/BAICHEN_DU_CV_2022-06-30.pdf) for more details.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi! My name is Baichen Du 杜柏辰 [tʷuː4 pai3 ʈʂʰən2]. People also call me Albert for simplicity. I am a final year undergraduate student at the University of Hong Kong, majoring in Linguistics. I am interested in sociolinguistics broadly, and speech perception/production, sound change, variation, and their interaction with social effects. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi! My name is Baichen Du 杜柏辰 [tʷuː4 pai3 ʈʂʰən2]. People also call me Albert for simplicity. I am a final year undergraduate student at the University of Hong Kong, majoring in Linguistics. I am interested in sociolinguistics broadly, and speech perception/production, sound change, variation, and their interaction with social effects. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My UG thesis investigates how attention and awareness of social meaning associated with tone mergers affect asynchronous tonal change in Hong Kong Cantonese. Some other projects I contributed also study phonological learning and bilingualism.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My UG thesis investigates how attention and awareness of social meaning associated with tone mergers affect asynchronous tonal change in Hong Kong Cantonese. Some other projects I contributed also study phonological learning and bilingualism.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; During my undergraduate study, I mainly worked with [Dr. Youngah Do](https://repository.hku.hk/cris/rp/rp02160) and [Dr. Jonathan Havenhill](https://jhavenhill.com) at the [Language Development Lab](https://linguistics.hku.hk/ldlhku/) of the linguistics department at HKU. I also worked with [Dr. Haohan Chen](https://haohanchen.github.io/) on statistical programming and machine learning of text data processing, and [Prof. Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/) on social effects influencing Infant-Directed Speech and early language acquisition.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; During my undergraduate study, I mainly worked with [Dr. Youngah Do](https://repository.hku.hk/cris/rp/rp02160) and [Dr. Jonathan Havenhill](https://jhavenhill.com) at the [Language Development Lab](https://linguistics.hku.hk/ldlhku/) of the linguistics department at HKU. I also worked with [Dr. Haohan Chen](https://haohanchen.github.io/) on statistical programming and machine learning of text data processing, and [Prof. Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/) on social effects influencing Infant-Directed Speech and early language acquisition.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Apart from academic interests, I also enjoy photographing, cycling, and hiking. One of my life goals is to keep a Ragdoll at home, though I have not achieved it yet :p
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Apart from academic interests, I also enjoy photographing, cycling, and hiking. One of my life goals is to keep a Ragdoll at home, though I have not achieved it yet :p
 
 ## Research Interests
 
