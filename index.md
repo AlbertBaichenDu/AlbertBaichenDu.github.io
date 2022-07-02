@@ -46,8 +46,13 @@ See my [CV](https://albertbaichendu.github.io/assets/BAICHEN_DU_CV_2022-06-30.pd
 
 ## Honors, Awards, Grants
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+- **[2022]** Leung Kai Kui Research and Teaching Endowment. HKD 10,000
+- **[2022]** Globalink Research Award. CAD 12,000
+- **[2022]** The K.K.Ho Prize. HKD 20,000
+- **[2022]** Dean's Honor List.
+- **[2021]** Dean's Honor List.
+- **[2020]** Dean's Honor List.
+- **[2019]** Soong Ching-Ling Scholarship. CNY 200,000
 
 ## Research Experiences
 
