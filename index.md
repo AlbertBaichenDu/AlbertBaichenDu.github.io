@@ -18,7 +18,7 @@ Apart from academic interests, I also enjoy photographing, cycling, and hiking. 
 
 - **Sociolinguistics, Phonetics & Phonology:** Speech Perception/Production, Sound Change, Variation
 
-## Manuscripts
+## Projects & Manuscripts
 
 - **Attention and Awareness of Merger’s Social Meaning Influences Asynchronous Tonal Change in Hong Kong Cantonese.**
   <br>
@@ -28,22 +28,28 @@ Apart from academic interests, I also enjoy photographing, cycling, and hiking. 
   <!---<br>
   [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>--->
 
-- **Bilingual Speakers Show Cognitive Advantages in Simultaneous Generalization of Multiple Phonological Patterns.**
+- **Bilingual Speakers' Performance in Simultaneous Generalization of Multiple Phonological Patterns.**
   <br>
-  Youngah Do, **Baichen Du**, Xiaoyu Yu, Lihui Tan, Thomas van Hoey.
+  With Youngah Do, Sui Lung Sze, Tsz To Ho, Tak Wang Li.
   <br>
   **In Prep**.
 
-- **Ecological Learning of Phonotactics and Alternation Differs between Adults and Children.**
+- **Ecological Learning of Phonotactics and Alternation.**
   <br>
-  Youngah Do, **Baichen Du**, Sui Lung Sze, Tsz To Ho, Tak Wang Li.
+  With Youngah Do, Xiaoyu Yu, Lihui Tan, Thomas van Hoey.
   <br>
   **In Prep**.
   <!--- <br>
   IEEE Conference on Computer Vision and Pattern Recognition.---> 
   <!---<br>
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] --->
-
+  
+- **An Audio-visual Exposition of Palatalization and Sound Change in Diachronic and Synchronic Time.**
+  <br> 
+  With Jonathan Havenhill.
+  <br>
+  **In Prep**.
+  
 ## Honors, Awards, Grants
 
 - **[2022]** Leung Kai Kui Research and Teaching Endowment. HKD 10,000
