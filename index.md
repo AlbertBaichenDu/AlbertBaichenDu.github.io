@@ -52,7 +52,7 @@ layout: homepage
 
 - **Ecological Learning of Phonotactics and Alternation.**
   <br>
-  With [Youngah Do](https://repository.hku.hk/cris/rp/rp02160), Xiaoyu Yu, Lihui Tan, Thomas van Hoey.
+  With [Youngah Do](https://repository.hku.hk/cris/rp/rp02160), Xiaoyu Yu, Lihui Tan, [Dr. Thomas van Hoey](https://www.thomasvanhoey.com/).
   <br>
   **In Prep**.
   <!--- <br>
@@ -65,13 +65,13 @@ layout: homepage
 **The University of Hong Kong**
 - **[Aug. 2021 - Present]** Language Development Lab
   <br>
-  PI: Dr. [Youngah Do](https://repository.hku.hk/cris/rp/rp02160) & Dr. [Jonathan Havenhill](https://jhavenhill.com).
+  PI: [Dr. Youngah Do](https://repository.hku.hk/cris/rp/rp02160) & [Dr. Jonathan Havenhill](https://jhavenhill.com).
 - **[Jan. 2022 - Apr. 2022]** Department of Politics and Public Administration
   <br>
-  PI: Dr. Haohan Chen
+  PI: [Dr. Haohan Chen](https://haohanchen.github.io/)
 - **[Jan. 2021 - May. 2021]** Undergraduate Research Opportunity Program
   <br>
-  Supervisor: [Jonathan Havenhill](https://jhavenhill.com)
+  Supervisor: [Dr. Jonathan Havenhill](https://jhavenhill.com)
   
 **University of Manitoba**
 - **[Jun. 2022 - Present]** The Baby Language Lab
