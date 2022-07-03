@@ -90,7 +90,7 @@ layout: homepage
   <br>
   Supervisor: [Dr. Jonathan Havenhill](https://jhavenhill.com)
   
-**University of Manitoba**
+**University of Manitoba - Winnipeg**
 - **[Jun. 2022 - Present]** The Baby Language Lab
   <br>
   PI: [Prof. Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/)
@@ -132,6 +132,7 @@ layout: homepage
 - Phone: Upon Request.
 <!--- - Github: [AlbertBaichenDu](https://github.com/AlbertBaichenDu) --->
 - Instagram: [\_15.abcd](https://www.instagram.com/_15.abcd/)
+- Twitter: [@\_15abcd](https://twitter.com/_15abcd)
 - Address: R.C.Lee Hall
            <br>
            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6A Sassoon Road, 
