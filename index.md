@@ -18,6 +18,11 @@ layout: homepage
 
 - **Sociolinguistics, Phonetics & Phonology:** Speech Perception/Production, Sound Change, Variation
 
+## Education
+- [2019 - 2023(Expected)]**The University of Hong Kong**, Linguistics, Political Sciences
+  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPA: 3.94 out of 4.3, <em>First Honor Distinction</em>(Expected)
+
 ## Projects & Manuscripts
 
 - **Attention and Awareness of Merger’s Social Meaning Influences Asynchronous Tonal Change in Hong Kong Cantonese.**
