@@ -6,11 +6,11 @@ layout: homepage
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; See my [CV](https://albertbaichendu.github.io/assets/CV.pdf) for more details.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi! My name is **Baichen Du 杜柏辰** [tʷuː4 pai3 ʈʂʰən2]. People also call me **Albert** for simplicity. I am a final year undergraduate student at the University of Hong Kong, majoring in Linguistics. I am interested in **sociolinguistics** broadly, and **speech perception/production, sound change, variation, and their interaction with social effects** in specific. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi! My name is **Baichen Du 杜柏辰** [tʷuː4 pai3 ʈʂʰən2]. People also call me **Albert** for simplicity. I am a final year undergraduate student at the University of Hong Kong, majoring in **Linguistics** and Political Science. I am interested in **sociolinguistics** broadly, and **speech perception/production, sound change, and variation** in specific. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My UG thesis investigates how attention and awareness of social meaning associated with tone mergers affect asynchronous tonal change in Hong Kong Cantonese. Some other projects I contributed also study phonological learning and bilingualism.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; During my undergraduate study, I mainly worked with [Dr. Youngah Do](https://repository.hku.hk/cris/rp/rp02160) and [Dr. Jonathan Havenhill](https://jhavenhill.com) at the [Language Development Lab](https://linguistics.hku.hk/ldlhku/) of the linguistics department at HKU. I also worked with [Dr. Haohan Chen](https://haohanchen.github.io/) on statistical programming and machine learning of text data processing, and [Prof. Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/) on social effects influencing Infant-Directed Speech and early language acquisition.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; During my undergraduate study, I mainly worked with [Dr. Youngah Do](https://repository.hku.hk/cris/rp/rp02160) and [Dr. Jonathan Havenhill](https://jhavenhill.com) at the [Language Development Lab](https://linguistics.hku.hk/ldlhku/) of the linguistics department at HKU. I also worked for [Prof. Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/) on social effects influencing Infant-Directed Speech and early language acquisition. For my political science  major, [Dr. Haohan Chen](https://haohanchen.github.io/) supervised me on my thesis. I worked with him on statistical programming and machine learning of text data processing.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Apart from academic interests, I also enjoy photographing, cycling, and hiking. One of my life goals is to keep a Ragdoll at home, though I have not achieved it yet :p
 
@@ -33,6 +33,8 @@ layout: homepage
   <!---**Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
   <br>
   IEEE Conference on Computer Vision and Pattern Recognition.---> Undergraduate Thesis for Computational Political Science.
+  <br>
+  **In Prep**
   <!---<br>
   [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>--->
 
