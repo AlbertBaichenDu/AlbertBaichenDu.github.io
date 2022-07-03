@@ -40,19 +40,19 @@ layout: homepage
 
 - **An Audio-visual Account for Palatalization and Sound Change in Diachronic and Synchronic Time.**
   <br> 
-  With Jonathan Havenhill.
+  With [Jonathan Havenhill](https://jhavenhill.com).
   <br>
   **In Prep**.
 
 - **Bilingual Speakers' Performance in Simultaneous Generalization of Multiple Phonological Patterns.**
   <br>
-  With Youngah Do, Sui Lung Sze, Tsz To Ho, Tak Wang Li.
+  With [Youngah Do](https://repository.hku.hk/cris/rp/rp02160), Sui Lung Sze, Tsz To Ho, Tak Wang Li.
   <br>
   **In Prep**.
 
 - **Ecological Learning of Phonotactics and Alternation.**
   <br>
-  With Youngah Do, Xiaoyu Yu, Lihui Tan, Thomas van Hoey.
+  With [Youngah Do](https://repository.hku.hk/cris/rp/rp02160), Xiaoyu Yu, Lihui Tan, Thomas van Hoey.
   <br>
   **In Prep**.
   <!--- <br>
@@ -65,18 +65,18 @@ layout: homepage
 **The University of Hong Kong**
 - **[Aug. 2021 - Present]** Language Development Lab
   <br>
-  PI: Dr. Youngah Do & Dr. Jonathan Havenhill.
+  PI: Dr. [Youngah Do](https://repository.hku.hk/cris/rp/rp02160) & Dr. [Jonathan Havenhill](https://jhavenhill.com).
 - **[Jan. 2022 - Apr. 2022]** Department of Politics and Public Administration
   <br>
   PI: Dr. Haohan Chen
 - **[Jan. 2021 - May. 2021]** Undergraduate Research Opportunity Program
   <br>
-  Supervisor: Dr. Jonathan Havanhill
+  Supervisor: [Jonathan Havenhill](https://jhavenhill.com)
   
 **University of Manitoba**
 - **[Jun. 2022 - Present]** The Baby Language Lab
   <br>
-  PI: Prof. Melanie Soderstrom
+  PI: [Prof. Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/)
 
 ## Honors, Awards, Grants
 
