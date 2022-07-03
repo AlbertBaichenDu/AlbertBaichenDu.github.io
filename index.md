@@ -90,7 +90,7 @@ layout: homepage
 
 ## Extracurricular Activities & Services
 
-- **[Dec. 2021 - Present]** Chinese Culture Sub-Committee, Student Association of R.C.Lee Hall.
+- **[Dec. 2021 - Present]** Chinese Culture Sub-Committee, Student Association of [R.C.Lee Hall](https://www.rclhall.hku.hk/).
   <br>
   <em> Chairperson </em>
 - **[Jun. 2021 - Aug. 2021]** [Pad for Hope Foundation](https://padforhope.org/).
