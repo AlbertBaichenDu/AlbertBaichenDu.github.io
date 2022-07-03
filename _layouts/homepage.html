@@ -33,6 +33,8 @@
 
         <h1>{{ site.title }}</h1> 
         
+        <h1>{{ site.subtitle }}</h1>
+        
         {% if site.position %}
         {{ site.position }}
         <br>
@@ -41,6 +43,12 @@
         {% if site.email %}
         <br>
         {{ site.email }}
+        <br>
+        {% if site.other1 %}
+        {{ site.other1 }}
+        <br>
+        {% if site.other2 %}
+        {{ site.other2 }}
         <br>
         <br>
         {% endif %}
