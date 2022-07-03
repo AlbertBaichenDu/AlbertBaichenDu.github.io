@@ -52,7 +52,7 @@ layout: homepage
 
 - **Ecological Learning of Phonotactics and Alternation.**
   <br>
-  With [Youngah Do](https://repository.hku.hk/cris/rp/rp02160), Xiaoyu Yu, Lihui Tan, [Dr. Thomas van Hoey](https://www.thomasvanhoey.com/).
+  With [Youngah Do](https://repository.hku.hk/cris/rp/rp02160), Xiaoyu Yu, Lihui Tan, [Thomas van Hoey](https://www.thomasvanhoey.com/).
   <br>
   **In Prep**.
   <!--- <br>
