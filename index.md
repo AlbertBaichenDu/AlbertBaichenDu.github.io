@@ -23,6 +23,10 @@ layout: homepage
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPA: 3.94 out of 4.3, <em>First Honor Distinction</em>(expected)
 
+- [Spring 2023]**University of California** (campus to be decided)
+  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HKU Worldwide Undergraduate Student Exchange Programme.
+
 - [2020, 2021] **Korea University**
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;International Winter & Summer Capmus, GPA: 4.07 out of 4.5
