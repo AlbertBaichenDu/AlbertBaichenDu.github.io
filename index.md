@@ -99,11 +99,11 @@ layout: homepage
 
 - **[2022]** Leung Kai Kui Research and Teaching Endowment. HKD 10,000
              <br>
-             Globalink Research Award. CAD 12,000
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Globalink Research Award. CAD 12,000
              <br>
-             The K.K.Ho Prize. HKD 20,000
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The K.K.Ho Prize. HKD 20,000
              <br>
-             Dean's Honor List.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dean's Honor List.
 - **[2021]** Dean's Honor List.
 - **[2020]** Dean's Honor List.
 - **[2019]** Soong Ching-Ling Scholarship. CNY 200,000
