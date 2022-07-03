@@ -23,6 +23,14 @@ layout: homepage
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPA: 3.94 out of 4.3, <em>First Honor Distinction</em>(expected)
 
+- [2020, 2021] **Korea University**
+  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;International Winter & Summer Capmus, GPA: 4.07 out of 4.5
+
+- [May. 2021] **The Luso-Brazilian Association of Speech Sciences** 
+  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workshops: Statistical Method in Linguistic Research, Speech Analysis
+
 ## Projects & Manuscripts
 
 - **Attention and Awareness of Merger’s Social Meaning Influences Asynchronous Tonal Change in Hong Kong Cantonese.**
