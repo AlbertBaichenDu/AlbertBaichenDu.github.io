@@ -93,7 +93,7 @@ layout: homepage
 - **[Dec. 2021 - Present]** Chinese Culture Sub-Committee, Student Association of R.C.Lee Hall.
   <br>
   <em> Chairperson </em>
-- **[Jun. 2021 - Aug. 2021]** Pad for Hope Foundation.
+- **[Jun. 2021 - Aug. 2021]** [Pad for Hope Foundation](https://padforhope.org/).
   <br>
   <em> Teaching Assistant </em>
 - **[Oct. 2020 - Oct. 2021]** Social Service Fund, The University of Hong Kong.
