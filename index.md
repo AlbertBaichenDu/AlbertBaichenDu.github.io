@@ -19,9 +19,9 @@ layout: homepage
 - **Sociolinguistics, Phonetics & Phonology:** Speech Perception/Production, Sound Change, Variation
 
 ## Education
-- [2019 - 2023(Expected)]**The University of Hong Kong**, Linguistics, Political Sciences
+- [2019 - 2023]**The University of Hong Kong**
   <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPA: 3.94 out of 4.3, <em>First Honor Distinction</em>(Expected)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPA: 3.94 out of 4.3, <em>First Honor Distinction</em>(expected)
 
 ## Projects & Manuscripts
 
