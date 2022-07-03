@@ -24,7 +24,15 @@ layout: homepage
   <br>
   <!---**Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition.---> **Undergraduate Thesis**.
+  IEEE Conference on Computer Vision and Pattern Recognition.---> Undergraduate Thesis for Linguistics Major.
+  <!---<br>
+  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>--->
+  
+- **Explanatory Power or Facts: Endorsement for Speculations and Conjectures When Social Facts are Absent**
+  <br>
+  <!---**Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  <br>
+  IEEE Conference on Computer Vision and Pattern Recognition.---> Undergraduate Thesis for Computational Political Science.
   <!---<br>
   [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>--->
 
