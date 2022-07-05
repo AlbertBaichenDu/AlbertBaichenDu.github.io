@@ -71,7 +71,6 @@ layout: homepage
   <br>
   With [Youngah Do](https://repository.hku.hk/cris/rp/rp02160), Xiaoyu Yu, Lihui Tan, [Thomas van Hoey](https://www.thomasvanhoey.com/).
   <br>
-  **In Prep**.
   <!--- <br>
   IEEE Conference on Computer Vision and Pattern Recognition.---> 
   <!---<br>
