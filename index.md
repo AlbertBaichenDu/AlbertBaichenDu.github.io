@@ -54,6 +54,16 @@ layout: homepage
   **In Prep**
   <!---<br>
   [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>--->
+  
+- **Ecological Learning of Phonotactics and Alternation.**
+  <br>
+  With [Youngah Do](https://repository.hku.hk/cris/rp/rp02160), Xiaoyu Yu, Lihui Tan, [Thomas van Hoey](https://www.thomasvanhoey.com/).
+  <br>
+  **To be Submitted**
+  <!--- <br>
+  IEEE Conference on Computer Vision and Pattern Recognition.---> 
+  <!---<br>
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] --->
 
 - **An Audio-visual Account for Palatalization and Sound Change in Diachronic and Synchronic Time.**
   <br> 
@@ -66,15 +76,6 @@ layout: homepage
   With [Youngah Do](https://repository.hku.hk/cris/rp/rp02160), Sui Lung Sze, Tsz To Ho, Tak Wang Li.
   <br>
   **In Prep**.
-
-- **Ecological Learning of Phonotactics and Alternation.**
-  <br>
-  With [Youngah Do](https://repository.hku.hk/cris/rp/rp02160), Xiaoyu Yu, Lihui Tan, [Thomas van Hoey](https://www.thomasvanhoey.com/).
-  <br>
-  <!--- <br>
-  IEEE Conference on Computer Vision and Pattern Recognition.---> 
-  <!---<br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] --->
   
 ## Research Experience
 
