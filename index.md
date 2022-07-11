@@ -119,10 +119,11 @@ layout: homepage
   
 ## Skills
 
-- Natural Languages: Mandarin, English, Cantonese
-- Programming Lanaguges<sup>#</sup>: R, Praat Script, Python, LaTex, HTML
+- Natural Languages: Mandarin, English, Cantonese, French (Elementary)
+- Programming Lanaguges<sup>#</sup>: R, Praat Script, LaTex, Python, HTML, Julia
 - Research Tools: RStudio, Praat, PsychoPy, ELAN, Qualtrics
-- Related Skills: Frequentist Statistics, Web Scraping, Machine Learning for Text Data Processing, Forced Alignment
+- Research Skills: Frequentist Statistics, Web Scraping, Machine Learning for Text Data Processing, Forced Alignment
+- Other Skills: Adobe Premiere Pro, WordPress
   <br>
 <sup>#</sup>In a descending order of proficiency.
 
