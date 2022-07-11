@@ -98,7 +98,7 @@ layout: homepage
   <br>
   PI: [Prof. Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/)
   
-**Chinese University of Hong Kong**
+**The Chinese University of Hong Kong**
 - **[Dec. 2020 - Jan. 2021]** University Service Centre for China Studies Collection
   <br>
   <em> Helper </em> for the Digitalization of China Studies Collection.
