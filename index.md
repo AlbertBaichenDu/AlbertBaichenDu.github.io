@@ -82,7 +82,10 @@ layout: homepage
 **The University of Hong Kong**
 - **[Aug. 2021 - Present]** Language Development Lab
   <br>
-  PI: [Dr. Youngah Do](https://repository.hku.hk/cris/rp/rp02160) & [Dr. Jonathan Havenhill](https://jhavenhill.com).
+  PI: [Dr. Youngah Do](https://repository.hku.hk/cris/rp/rp02160) & [Dr. Jonathan Havenhill](https://jhavenhill.com). 
+- **[Sep. 2022 - Dec. 2022]** Undergraduate Research Fellowship
+  <br>
+  Supervisor: [Dr. Haohan Chen](https://haohanchen.github.io/)
 - **[Jan. 2022 - Apr. 2022]** Department of Politics and Public Administration
   <br>
   PI: [Dr. Haohan Chen](https://haohanchen.github.io/)
@@ -94,6 +97,11 @@ layout: homepage
 - **[Jun. 2022 - Present]** The Baby Language Lab
   <br>
   PI: [Prof. Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/)
+  
+**Chinese University of Hong Kong**
+- **[Dec. 2020 - Jan. 2021]** University Service Centre for China Studies Collection
+  <br>
+  <em> Helper </em> for the Digitalization of China Studies Collection.
 
 ## Honors, Awards, Grants
 
