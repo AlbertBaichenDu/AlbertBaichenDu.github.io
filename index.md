@@ -137,8 +137,32 @@ layout: homepage
 
 ## Key Courses
 
-- **Linguistics**: Phonetics: Describing sounds; Phonology: An introduction to the study of sound systems; Mind and body: A holistic approach to the sounds of language (The Interface between Phonetics and Phonology); Variation analysis; Laboratory linguistics: Practicum (capstone experience); Second language research; Languages of the world; Grammatical description; Semantics: Meaning and grammar.
-- **Research Methods**: Research methods in politics and public administration; Data science in politics and public administration; Data Analysis with R.
+- **Linguistics**: 
+  <br>
+  Phonetics: Describing sounds
+  <br>
+  Phonology: An introduction to the study of sound systems
+  <br>
+  Mind and body: A holistic approach to the sounds of language (The Interface between Phonetics and Phonology)
+  <br>
+  Variation analysis
+  <br>
+  Laboratory linguistics: Practicum (capstone experience)
+  <br>
+  Second language research
+  <br>
+  Languages of the world
+  <br>
+  Grammatical description
+  <br>
+  Semantics: Meaning and grammar
+- **Research Methods**: 
+  <br>
+  Research methods in politics and public administration
+  <br>
+  Data science in politics and public administration
+  <br>
+  Data Analysis with R.
 
 ## Contact
 
