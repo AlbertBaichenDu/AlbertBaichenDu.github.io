@@ -133,6 +133,7 @@ layout: homepage
 - Research Skills: [Frequentist Statistics](https://github.com/AlbertBaichenDu/Programming_Languages/tree/main/R)<sup>+</sup>, [Web Data Extraction](https://github.com/AlbertBaichenDu/Programming_Languages/blob/main/R/NLP/NLP_ForeignMinistry_relations_Step1_webscraping_fm.R)<sup>+</sup>, [Machine Learning for Text Data Processing](https://github.com/AlbertBaichenDu/Programming_Languages/tree/main/R/NLP)<sup>+</sup>, Forced Alignment
 - Other Skills: Adobe Premiere Pro, WordPress
   <br>
+  <br>
 <sup>#</sup>In a descending order of proficiency. <sup>+</sup>Hyperlinked to selected examples.
 
 ## Key Courses
