@@ -135,6 +135,11 @@ layout: homepage
   <br>
 <sup>#</sup>In a descending order of proficiency.
 
+## Key Courses
+
+- **Linguistics**: Phonetics: Describing sounds; Phonology: An introduction to the study of sound systems; Mind and body: A holistic approach to the sounds of language (The Interface between Phonetics and Phonology); Variation analysis; Laboratory linguistics: Practicum (capstone experience); Second language research; Languages of the world; Grammatical description; Semantics: Meaning and grammar.
+- **Research Methods**: Research methods in politics and public administration; Data science in politics and public administration; Data Analysis with R.
+
 ## Contact
 
 - Email: [baichen@connect.hku.hk](mailto:baichen@connect.hku.hk)
