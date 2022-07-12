@@ -172,7 +172,7 @@ layout: homepage
 <!--- - Github: [AlbertBaichenDu](https://github.com/AlbertBaichenDu) --->
 - Instagram: [\_15.abcd](https://www.instagram.com/_15.abcd/)
 - Twitter: [@\_15abcd](https://twitter.com/_15abcd)
-- Address: R.C.Lee Hall
+- Address: R.C.Lee Hall, The University of Hong Kong
            <br>
            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6A Sassoon Road, 
            <br>
