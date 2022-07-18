@@ -73,7 +73,7 @@ layout: homepage
 
 - **Bilingual Speakers' Performance in Simultaneous Generalization of Multiple Phonological Patterns.**
   <br>
-  With 
+  With [Youngah Do](https://repository.hku.hk/cris/rp/rp02160), Sze Sui Lung, Li Tak Wang, and Ho Tsz To.
   <br>
   **In Prep**.
   
