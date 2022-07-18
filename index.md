@@ -73,7 +73,13 @@ layout: homepage
 
 - **Bilingual Speakers' Performance in Simultaneous Generalization of Multiple Phonological Patterns.**
   <br>
-  With [Youngah Do](https://repository.hku.hk/cris/rp/rp02160), Sui Lung Sze, Tsz To Ho, Tak Wang Li.
+  With 
+  <br>
+  **In Prep**.
+  
+- **Distractions Affects Prosodic Features of Infant-Directed Speech**
+  <br>
+  With [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/) and Mercedes Casar.
   <br>
   **In Prep**.
   
@@ -97,11 +103,7 @@ layout: homepage
 - **[Jun. 2022 - Present]** The Baby Language Lab
   <br>
   PI: [Prof. Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/)
-  
-**The Chinese University of Hong Kong**
-- **[Dec. 2020 - Jan. 2021]** [University Service Centre for China Studies Collection](http://www.usc.cuhk.edu.hk/?lang=en)
-  <br>
-  <em> Helper </em>
+
 
 ## Honors, Awards, Grants
 
@@ -124,6 +126,9 @@ layout: homepage
 - **[Oct. 2020 - Oct. 2021]** Social Service Fund, The University of Hong Kong.
   <br>
   <em> External Secretary </em>
+- **[Dec. 2020 - Jan. 2021]** [University Service Centre for China Studies Collection](http://www.usc.cuhk.edu.hk/?lang=en), The Chinese University of Hong Kong
+  <br>
+  <em> Helper </em>
   
 ## Skills
 
