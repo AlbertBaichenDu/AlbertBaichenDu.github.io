@@ -108,7 +108,7 @@ layout: homepage
 ## Teaching Experience
 
 **The University of Hong Kong**
-- **[Spring 2023] POLI3148** Data Science in Politics and Public Administration (Undergraduate, Advanced)
+- **[Spring 2023, Scheduled] POLI3148** Data Science in Politics and Public Administration (Undergraduate, Advanced)
   <br>
   <em> Teaching Assistant </em> to [Dr. Haohan Chen](https://haohanchen.github.io/)
   <br>
