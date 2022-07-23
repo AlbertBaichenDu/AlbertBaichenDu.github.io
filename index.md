@@ -22,6 +22,7 @@ layout: homepage
 - [2019 - 2023]**The University of Hong Kong**
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPA: 3.94 out of 4.3, <em>First Honor Distinction</em>(expected)
+
 <!---
 - [Spring 2023]**University of California** (campus to be decided)
   <br> 
