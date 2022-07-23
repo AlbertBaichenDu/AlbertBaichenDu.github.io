@@ -22,10 +22,10 @@ layout: homepage
 - [2019 - 2023]**The University of Hong Kong**
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPA: 3.94 out of 4.3, <em>First Honor Distinction</em>(expected)
-
+<!---
 - [Spring 2023]**University of California** (campus to be decided)
-  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HKU Worldwide Undergraduate Student Exchange Programme.
+  <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HKU Worldwide Undergraduate Student Exchange Programme.--->
 
 - [2020, 2021] **Korea University**
   <br>
@@ -104,6 +104,14 @@ layout: homepage
   <br>
   PI: [Prof. Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/)
 
+## Teaching Experience
+
+**The University of Hong Kong**
+- **[Spring 2023] POLI3148** Data Science in Politics and Public Administration (Undergraduate, Advanced)
+  <br>
+  <em> Teaching Assistant </em> to [Dr. Haohan Chen](https://haohanchen.github.io/)
+  <br>
+  Responsible for delivering weekly one-hour tutorial sessions. Scheduled tutorials: Introduction to R, R Basics (Syntax, Data types, Data structure, Operators, Control flow, Print, Pipe, Customized function), StringR, Regular Expression, Web Data Extraction (Indexing, Retrieving, Parsing), Final recap.
 
 ## Honors, Awards, Grants
 
