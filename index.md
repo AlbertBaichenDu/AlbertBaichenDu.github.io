@@ -21,7 +21,7 @@ layout: homepage
 ## Education
 - [2019 - 2023]**The University of Hong Kong**
   <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPA: 3.94 out of 4.3, <em>First Honor Distinction</em>(expected)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>First Honor Distinction</em>(expected), GPA: 3.94/4.3, GPA of Linguistics: 4.08/4.3
 
 <!---
 - [Spring 2023]**University of California** (campus to be decided)
